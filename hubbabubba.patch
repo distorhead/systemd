@@ -1,3 +1,9 @@
+From 0e86bd22bdc90c634dee2e5710e1c48883c76fb4 Mon Apr 4 22:01:52 2016
+From: Timofey Kirillov <distorhead@gmail.com>
+Date: Thu, 25 Feb 2016 15:15:04 +0100
+Date: Mon Apr 4 22:01:52 2016 +0300
+Subject: hubbabubba
+---
 diff --git a/src/systemctl/systemctl.c b/src/systemctl/systemctl.c
 index 21cb898..261beee 100644
 --- a/src/systemctl/systemctl.c
