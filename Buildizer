@@ -1,0 +1,9 @@
+build_type: patch
+package_cloud: distorhead/main
+
+package_name: systemd
+package_version: 1
+patch: hubbabubba.patch
+
+target:
+- centos-centos7
