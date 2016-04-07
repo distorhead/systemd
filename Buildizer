@@ -7,4 +7,4 @@ patch: hubbabubba.patch
 package_name: systemd
 
 target:
-- centos-centos7
+- centos/centos7
